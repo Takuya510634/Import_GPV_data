@@ -20,8 +20,8 @@ data_time = "120000"    #固定
 time_diff = datetime.timedelta(hours=9) #時差
 
 #緯度指定
-lat =36.106643
-lon = 140.103164
+lat =36.111671256692375
+lon = 140.1040011927121
 #緯度 0.05度刻み
 lat1 = lat - 0.025
 lat2 = lat + 0.025
